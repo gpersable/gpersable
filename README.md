@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpersable
-- 👀 I’m interested in software engineering, cooking, painting, and so many things!
+- 👀 I’m interested in software engineering, cloud computing, cooking, painting, and so many things!
 - 🌱 I’m currently learning Golang, Kubernetes, Istio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: gpersable8@gmail.com
